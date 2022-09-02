@@ -37,5 +37,12 @@ You can also start a conversation with me in **English**. As I can follow movies
 Even though I learned **French** for about 4 years in school, my skills are pretty rusty. You may be more successful approaching me in Klingon (which I did neither learn nor speak at any point).
 
 ## Social Media
+I do not consider social media as a beneficial concept for the individual and the society. Therefore my activities are very limited.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/ronnykarallus/) which I mostly use to keep in contact with people I met in my professional career.
+
+I also do have a barely active [Twitter](https://twitter.com/RonnyKarallus) account, because ... everybody does.
+
+The magic of Instagram or TikTok did never spark me ...
 
 ## Personal Values
