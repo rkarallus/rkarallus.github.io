@@ -27,7 +27,7 @@ I am working 32h per week for my employer [Mister Spex](https://www.misterspex.d
 | Thursday  | MRX | MRX | MRX |  -  | MRX | MRX | MRX | MRX |  -  |  -  |  -  |
 | Friday    | MRX | MRX | MRX |  -  | MRX | MRX |  -  |  -  |  -  |  -  |  -  |
 
-My second priority is my engagement as a freelancer for [GovMarket](https://www.govmarket.de/).
+My second priority is my engagement as a freelancer for [GovMarket](https://www.govmarket.de/). I support this project for up to 8h per week.
 
 ## Languages
 My mother tongue is **German**, even though that may be a discussion topic among german native speakers as I can have a pretty strong Saxonian accent.
