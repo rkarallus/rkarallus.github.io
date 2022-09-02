@@ -4,11 +4,11 @@ I have recently been hit by a [newsletter](https://preview.mailerlite.com/t6v5w8
 ## What would you like to learn about me?
 Please find an overview what I want to share with you below
 
-1) [My Background](./#my-background)
-2) [Time Zone and working hours](./#time-zone-and-working-hours)
-3) [Languages](./#languages)
-4) [Social Media](./#social-media)
-5) [Personal values](./#personal-values)
+1. [My Background](./#my-background)
+2. [Time Zone and working hours](./#time-zone-and-working-hours)
+3. [Languages](./#languages)
+4. [Social Media](./#social-media)
+5. [Personal values](./#personal-values)
 
 ## My Background
 
