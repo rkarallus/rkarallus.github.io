@@ -1,7 +1,6 @@
-# Personal User Guide: Ronny Karallus
 I have recently been hit by a [newsletter](https://preview.mailerlite.com/t6v5w8w1d1/2003054563581498890/v5f7/) of one of my favorite websites [Collaborative Superpowers](https://www.collaborationsuperpowers.com/). It was describing how creating a personal user guide could help to clarify for yourself and other what you need to do your best work. Working with new people regularly in a hybrid setup, I thought this would be an excellent idea. So here you find mine.
 
-## What would you like to learn about me?
+# What would you like to learn about me?
 Please find an overview what I want to share with you below
 
 1. [My Background](./#my-background)
@@ -10,9 +9,9 @@ Please find an overview what I want to share with you below
 4. [Social Media](./#social-media)
 5. [Personal values](./#personal-values)
 
-## My Background
+# My Background
 
-## Time Zone and working hours
+# Time Zone and working hours
 Mostly, I am working from [Berlin, Germany](https://goo.gl/maps/KaqwKxjaXW8ErXvw9). The timezone there may be [CEST/CET](https://www.timeanddate.com/time/zone/germany/berlin-state).
 
 My main priority is my family. I have a 4 year old son takes a lot of my attention, especially in the morning. 
@@ -29,14 +28,14 @@ I am working 32h per week for my employer [Mister Spex](https://www.misterspex.d
 
 My second priority is my engagement as a freelancer for [GovMarket](https://www.govmarket.de/). I support this project for up to 8h per week.
 
-## Languages
+# Languages
 My mother tongue is **German**, even though that may be a discussion topic among german native speakers as I can have a pretty strong Saxonian accent.
 
 You can also start a conversation with me in **English**. As I can follow movies, read most books, discuss about nearly everything and even sometimes think in this language, I consider my skills as advanced.
 
 Even though I learned **French** for about 4 years in school, my skills are pretty rusty. You may be more successful approaching me in Klingon (which I did neither learn nor speak at any point).
 
-## Social Media
+# Social Media
 I do not consider social media as a beneficial concept for the individual and the society. Therefore my activities are very limited.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/ronnykarallus/) which I mostly use to keep in contact with people I met in my professional career.
@@ -45,4 +44,4 @@ I also do have a barely active [Twitter](https://twitter.com/RonnyKarallus) acco
 
 The magic of Instagram or TikTok did never spark me ...
 
-## Personal Values
+# Personal Values
