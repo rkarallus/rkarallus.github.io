@@ -45,3 +45,17 @@ I also do have a barely active [Twitter](https://twitter.com/RonnyKarallus) acco
 The magic of Instagram or TikTok did never spark me ...
 
 # Personal Values
+
+## Moving Motivators
+I believe a great way to discover what drives you personally is a tool called [Moving Motivators](https://management30.com/practice/moving-motivators/). My current (yes, the order may change) motivators from most important to least important are:
+
+<img src="./images/motivators/Folie2.SVG" alt="Curiosity" width="200"/>
+<img src="./images/motivators/Folie1.SVG" alt="Acceptance" width="200"/>
+<img src="./images/motivators/Folie3.SVG" alt="Power" width="200"/>
+<img src="./images/motivators/Folie4.SVG" alt="Order" width="200"/>
+<img src="./images/motivators/Folie5.SVG" alt="Relatedness" width="200"/>
+<img src="./images/motivators/Folie6.SVG" alt="Honor" width="200"/>
+<img src="./images/motivators/Folie7.SVG" alt="Goal" width="200"/>
+<img src="./images/motivators/Folie8.SVG" alt="Freedom" width="200"/>
+<img src="./images/motivators/Folie9.SVG" alt="Mastery" width="200"/>
+<img src="./images/motivators/Folie10.SVG" alt="Status" width="200"/>
